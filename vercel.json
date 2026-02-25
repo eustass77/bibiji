@@ -1,0 +1,8 @@
+{
+  "build": {
+    "ignore": []
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
